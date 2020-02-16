@@ -1,5 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
 # Lighting Chat ⚡️
 
 This app incorporates Firebase into Flutter. It using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud based NoSQL database and secure authentication methods.
